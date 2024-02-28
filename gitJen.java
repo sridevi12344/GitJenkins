@@ -1,4 +1,4 @@
-public class Myjava
+public class gitJen
 {
 public static void main (String args[])
 {
